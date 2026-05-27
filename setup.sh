@@ -4,3 +4,4 @@ then
 fi
 
 stow hypr
+stow fish
