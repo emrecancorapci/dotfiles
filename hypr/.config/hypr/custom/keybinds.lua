@@ -1,0 +1,1 @@
+hl.bind("SUPER + SHIFT + S", hl.dsp.exec_cmd("grim -g \"$(slurp -d)\" - | wl-copy"))

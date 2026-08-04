@@ -1,0 +1,5 @@
+hl.on("hyprland.start", function()
+	hl.exec_cmd("solaar --window hide")
+	hl.exec_cmd("openrgb --startminimized")
+	hl.exec_cmd("noctalia")
+end)
